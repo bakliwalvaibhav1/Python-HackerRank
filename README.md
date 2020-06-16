@@ -1,3 +1,3 @@
-# Python-Hackerrank
+# Python-HackerRank
 16) Numpy
 
