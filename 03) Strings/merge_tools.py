@@ -2,10 +2,13 @@
 TITLE: Merge the Tools
 
 INPUT:
-
+AABCAAADA
+3
 
 OUTPUT:
-2
+AB
+CA
+AD
 
 """
 
