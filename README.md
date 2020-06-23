@@ -4,4 +4,5 @@
 3) Strings
 4) Sets
 5) Math
+6) Itertools
 16) Numpy
