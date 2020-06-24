@@ -5,4 +5,5 @@
 4) Sets
 5) Math
 6) Itertools
+7) Collections
 16) Numpy
