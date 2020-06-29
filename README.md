@@ -8,4 +8,5 @@
 7) Collections
 8) Date and Time
 9) Errors and Exceptions
+10) Classes
 16) Numpy
